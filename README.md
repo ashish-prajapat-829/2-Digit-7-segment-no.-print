@@ -59,7 +59,6 @@ Design custom PCB version
 Proteus is used to simulate the circuit and verify the output virtually.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/090006fe-8c90-4d6b-8837-51ed02bb579c" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a19ce56-e457-47a3-94b2-e48afea9c589" />
 
 
 
